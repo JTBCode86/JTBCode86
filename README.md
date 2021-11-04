@@ -1,7 +1,7 @@
 
 ### Hi everyone 👋
 
-I'm Jean and I'm a eternal learner from new tecnologies.
+### I'm Jean and I'm a eternal learner from new tecnologies.
 #
 ### About me:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( LINK_LINKEDIN)
@@ -16,7 +16,7 @@ I'm Jean and I'm a eternal learner from new tecnologies.
 
 🔗 https://www.linkedin.com/in/jeanbarbosa/
 
-
+#
 <!--
 ### Hi there 👋
 **JTBCode86/JTBCode86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
