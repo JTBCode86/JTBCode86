@@ -16,6 +16,8 @@
 
 🔗 https://www.linkedin.com/in/jeanbarbosa/
 
+🔗 https://github.com/JTBCode86
+
 #
 <!--
 ### Hi there 👋
