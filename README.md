@@ -1,7 +1,7 @@
 
- _Hi everyone_ 👋
+ #### _Hi everyone_ 👋
 
- _I'm Jean and I'm a eternal learner from new tecnologies_.
+ #### _I'm Jean and I'm a eternal learner from new tecnologies_.
   
 #
 ### About me:
