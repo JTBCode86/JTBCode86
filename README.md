@@ -1,7 +1,8 @@
 
-### Hi everyone 👋
+ _Hi everyone_ 👋
 
-### I'm Jean and I'm a eternal learner from new tecnologies.
+ _I'm Jean and I'm a eternal learner from new tecnologies_.
+  
 #
 ### About me:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( LINK_LINKEDIN)
