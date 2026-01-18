@@ -14,23 +14,23 @@ Engenheiro de Software com mais de **15 anos de experiência** no setor de Tecno
 ### 🏆 Certificações & Reconhecimentos (Verificados via Credly)
 <p align="left">
   <a href="https://www.credly.com/badges/b9329a92-afec-4fd4-bbfc-2be6c4d2627d/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/af27ef78-6967-4082-b6ce-8111b1af47e1/MTA_Database_Fundamentals-01.png" width="100" height="100" alt="MTA: Database Fundamentals">
+    <img src="https://images.credly.com/size/340x340/images/af27ef78-6967-4082-b6ce-8111b1af47e1/MTA_Database_Fundamentals-01.png" width="80" height="100" alt="MTA: Database Fundamentals">
   </a>
 
   <a href="https://www.credly.com/badges/f84ab05c-90c6-4a5d-a703-2b967f837ffb/public_url" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/868cddfc-28ba-4671-82b3-0a893807a77e/Querying_Microsoft_SQL_Server_2012.2014-01.png" width="100" height="100" alt="Querying Microsoft SQL Server 2012/2014">
+    <img src="https://images.credly.com/size/110x110/images/868cddfc-28ba-4671-82b3-0a893807a77e/Querying_Microsoft_SQL_Server_2012.2014-01.png" width="100" height="80" alt="Querying Microsoft SQL Server 2012/2014">
   </a>
   
   <a href="https://www.credly.com/badges/2b4ab25b-cd33-4350-a3fa-16848e118ab0/public_url" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100" alt="AWS Certified Cloud Practitioner">
+    <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="80" alt="AWS Certified Cloud Practitioner">
   </a>
 
   <a href="https://www.credly.com/badges/54e0ec55-ea34-4e96-9594-532a42dc490b/public_url" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/dbbbaffb-5117-4da2-9b03-eae604acbf51/image.png" width="100" height="100" alt="Associate - Data Modelling">
+    <img src="https://images.credly.com/size/110x110/images/dbbbaffb-5117-4da2-9b03-eae604acbf51/image.png" width="100" height="80" alt="Associate - Data Modelling">
   </a>
 
   <a href="https://www.credly.com/badges/036ff78b-fb4c-47a2-b572-3bfc5ef87bd7/public_url" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/27224c08-f61c-4d82-b929-325f96af326a/image.png" width="100" height="100" alt="Associate - Data Engineering">
+    <img src="https://images.credly.com/size/110x110/images/27224c08-f61c-4d82-b929-325f96af326a/image.png" width="100" height="80" alt="Associate - Data Engineering">
   </a>
   
 </p>
