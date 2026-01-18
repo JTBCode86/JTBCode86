@@ -2,10 +2,33 @@
 
 ### 📊 Painel de Atividade & Performance
 
-![Stats do Perfil](https://github-readme-stats.vercel.app/api?username=JTBCode86&show_icons=true&theme=dracula&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JTBCode86&layout=compact&theme=dracula)
-
-![GitHub Snake](https://raw.githubusercontent.com/JTBCode86/JTBCode86/output/github-contribution-grid-snake-dark.svg)
+<table align="center" border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=JTBCode86&show_icons=true&theme=dracula&include_all_commits=true" alt="Estatísticas Gerais" />
+      <br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JTBCode86&layout=compact&theme=dracula" alt="Linguagens Mais Usadas" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <p align="center"><strong>🐍 Snake Game (Contribuições)</strong></p>
+      <img src="https://raw.githubusercontent.com/JTBCode86/JTBCode86/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
+      <br/><br/>
+       <p align="center">
+        <img src="https://img.shields.io/badge/Foco_Atual-Estudando_IA_e_Machine_Learning-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Trabalhando_com-Sistemas_Legados_e_Arquitetura-orange?style=for-the-badge&logo=dotnet&logoColor=white" />
+      </p>
+      <br/>
+      <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=JTBCode86&color=blueviolet&style=flat-square&label=PERFIL+VISITADO" alt="Contador de Visitas" />
+      </p>
+      <p align="center">
+        <sub><i>"Transformando café em código robusto há mais de 15 anos."</i></sub>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -48,34 +71,33 @@ Engenheiro de Software com mais de **15 anos de experiência** no setor de Tecno
 
 ### 🛠 Tecnologias e Ferramentas
 
-*Linguagens de Programação**
+**Core Development**
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VB.NET" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-**Desenvolvimento Web**
+**Scripting & Data**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+**Desenvolvimento Web & Modelagem**
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-**Bancos de Dados & Modelagem**
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=unified-modeling-language&logoColor=white" alt="UML" />
 </p>
 
-**Cloud & Infraestrutura**
+**Cloud & Infrastructure**
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/Networks-00599C?style=for-the-badge&logo=cisco&logoColor=white" alt="Networks" />
-  <img src="https://img.shields.io/badge/Application_Support-FF9900?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="Support" />
 </p>
 
 ---
