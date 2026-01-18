@@ -43,11 +43,16 @@ Engenheiro de Software com mais de **15 anos de experiência** no setor de Tecno
   <img src="https://img.shields.io/badge/Application_Support-FF9900?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="Support" />
 </p>
 
----
+--
 
 ### 📊 Estatísticas do GitHub
 ![Stats do Perfil](https://github-readme-stats.vercel.app/api?username=JTBCode86&show_icons=true&theme=dracula&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JTBCode86&layout=compact&theme=dracula)
+
+---
+
+### 🐍 Snake Game (Meus Commits)
+![GitHub Snake](https://raw.githubusercontent.com/JTBCode86/JTBCode86/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
