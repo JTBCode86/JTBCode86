@@ -110,6 +110,10 @@ Estou sempre aberto a trocar conhecimentos sobre o mundo tech e novas oportunida
     <img src="https://images.credly.com/size/110x110/images/27224c08-f61c-4d82-b929-325f96af326a/image.png" width="100" height="80" alt="Associate - Data Engineering">
   </a>
   
+  <a href="https://www.credly.com/badges/b0c294fc-c8af-4271-bc6a-392d06d1437f/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" width="100" height="80" alt="AWS Cloud Quest: Cloud Practitioner - Training Badge">
+  </a>
+  
 </p>
 
 *“Em busca constante de desenvolvimento e crescimento profissional.”*
