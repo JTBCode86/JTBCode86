@@ -2,34 +2,27 @@
 
 ### 📊 Painel de Atividade & Performance
 
-<table align="center" border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=JTBCode86&show_icons=true&theme=dracula&include_all_commits=true" alt="Estatísticas Gerais" />
-      <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JTBCode86&layout=compact&theme=dracula" alt="Linguagens Mais Usadas" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <p align="center"><strong>🐍 Snake Game (Contribuições)</strong></p>
-      <img src="https://raw.githubusercontent.com/JTBCode86/JTBCode86/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
-      <br/><br/>
-      <br/><br/>
-       <p align="center">
-        <img src="https://img.shields.io/badge/Foco_Atual-Estudando_IA_e_Machine_Learning-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Trabalhando_com-Sistemas_Legados_e_Arquitetura-orange?style=for-the-badge&logo=dotnet&logoColor=white" />
-      </p>
-      <br/>
-      <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=JTBCode86&color=blueviolet&style=flat-square&label=PERFIL+VISITADO" alt="Contador de Visitas" />
-      </p>
-      <p align="center">
-        <sub><i>"Transformando café em código robusto há mais de 15 anos."</i></sub>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Software_&_Data_Engineer-15_Anos_Expertise-blueviolet?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JTBCode86&theme=dracula" alt="Detalhes do Perfil" width="100%" />
+</p>
+
+<p align="center">
+  <strong>🐍 Snake Game (Contribuições)</strong><br/>
+  <img src="https://raw.githubusercontent.com/JTBCode86/JTBCode86/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCO_ATUAL-IA_&_MACHINE_LEARNING-7952b3?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPERT_EM-SISTEMAS_LEGADOS_&_ARQUITETURA-orange?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JTBCode86&color=blueviolet&style=flat-square&label=PERFIL+VISITADO" alt="Contador de Visitas" />
+</p>
 
 ---
 
