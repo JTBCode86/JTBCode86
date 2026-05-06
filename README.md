@@ -90,30 +90,46 @@ Estou sempre aberto a trocar conhecimentos sobre o mundo tech e novas oportunida
 
 ### 🏆 Certificações & Reconhecimentos (Verificados via Credly)
 <p align="left">
+  
+  <!-- MTA: Database Fundamentals -->
   <a href="https://www.credly.com/badges/b9329a92-afec-4fd4-bbfc-2be6c4d2627d/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/af27ef78-6967-4082-b6ce-8111b1af47e1/MTA_Database_Fundamentals-01.png" width="80" height="100" alt="MTA: Database Fundamentals">
+    <img src="https://images.credly.com/size/340x340/images/af27ef78-6967-4082-b6ce-8111b1af47e1/MTA_Database_Fundamentals-01.png" height="80" alt="MTA: Database Fundamentals">
   </a>
 
+  <!-- Querying Microsoft SQL Server -->
   <a href="https://www.credly.com/badges/f84ab05c-90c6-4a5d-a703-2b967f837ffb/public_url" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/868cddfc-28ba-4671-82b3-0a893807a77e/Querying_Microsoft_SQL_Server_2012.2014-01.png" width="100" height="80" alt="Querying Microsoft SQL Server 2012/2014">
+    <img src="https://images.credly.com/size/110x110/images/868cddfc-28ba-4671-82b3-0a893807a77e/Querying_Microsoft_SQL_Server_2012.2014-01.png" height="80" alt="Querying Microsoft SQL Server 2012/2014">
   </a>
-  
+
+  <!-- AWS Certified Cloud Practitioner -->
   <a href="https://www.credly.com/badges/2b4ab25b-cd33-4350-a3fa-16848e118ab0/public_url" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="80" alt="AWS Certified Cloud Practitioner">
+    <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="80" alt="AWS Certified Cloud Practitioner">
   </a>
 
-  <a href="https://www.credly.com/badges/54e0ec55-ea34-4e96-9594-532a42dc490b/public_url" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/dbbbaffb-5117-4da2-9b03-eae604acbf51/image.png" width="100" height="80" alt="Associate - Data Modelling">
-  </a>
-
-  <a href="https://www.credly.com/badges/036ff78b-fb4c-47a2-b572-3bfc5ef87bd7/public_url" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/27224c08-f61c-4d82-b929-325f96af326a/image.png" width="100" height="80" alt="Associate - Data Engineering">
-  </a>
-  
+  <!-- AWS Cloud Quest: Cloud Practitioner -->
   <a href="https://www.credly.com/badges/b0c294fc-c8af-4271-bc6a-392d06d1437f/public_url" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" width="100" height="80" alt="AWS Cloud Quest: Cloud Practitioner - Training Badge">
+    <img src="https://images.credly.com/size/110x110/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" height="80" alt="AWS Cloud Quest: Cloud Practitioner">
   </a>
-  
+
+  <!-- AWS Cloud Quest: Data Analytics -->
+  <a href="https://www.credly.com/badges/1f592f98-dea2-407e-a2b1-fa8161b8a638/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/530be67d-1ce0-46d4-8a36-3f277d5687bc/blob" height="80" alt="AWS Cloud Quest: Data Analytics">
+  </a>
+
+  <!-- AWS Cloud Quest: Generative AI Architect -->
+  <a href="https://www.credly.com/badges/08386f9a-8cb2-4fb9-81b4-91b060db415d/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/e3f85edd-57d4-4585-9311-7b99b3bc7a75/blob" height="80" alt="AWS Cloud Quest: Generative AI Architect">
+  </a>
+
+  <!-- AWS Cloud Quest: Generative AI Practitioner -->
+  <a href="https://www.credly.com/badges/4591dd24-834b-4b89-b5e7-5e34854d8774/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob" height="80" alt="AWS Cloud Quest: Generative AI Practitioner">
+  </a>
+
+  <!-- AWS Cloud Quest: Solutions Architect - Training Badge -->
+  <a href="https://www.credly.com/badges/b35df395-425c-42f9-a7ea-0934d7dbbc55/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/320bfb8f-e722-41b9-a70a-c3fb07402981/blob" height="80" alt="AWS Cloud Quest: Generative AI Practitioner">
+  </a>
 </p>
 
 *“Em busca constante de desenvolvimento e crescimento profissional.”*
