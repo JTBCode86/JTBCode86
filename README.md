@@ -109,19 +109,30 @@ Estou sempre aberto a trocar conhecimentos sobre o mundo tech e novas oportunida
     <img src="https://images.credly.com/size/340x340/images/530be67d-1ce0-46d4-8a36-3f277d5687bc/blob" height="80" alt="AWS Cloud Quest: Data Analytics">
   </a>
 
+ <!-- AWS Cloud Quest: Serverless Developer -->
+  <a href="https://www.credly.com/badges/08386f9a-8cb2-4fb9-81b4-91b060db415d/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/9246c572-2b5e-4b3a-9fae-e87b3c1bf681/blob" height="80" alt="AWS Cloud Quest: Serverless Developer">
+  </a>
+
+  
+   <!-- AWS Cloud Quest: Machine Learning -->
+  <a href="https://www.credly.com/badges/08386f9a-8cb2-4fb9-81b4-91b060db415d/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/0bbd6fa0-937a-4933-9581-d25dd860bb33/blob" height="80" alt="AWS Cloud Quest: Machine Learning">
+  </a>
+  
+  <!-- AWS Cloud Quest: Generative AI Practitioner -->
+  <a href="https://www.credly.com/badges/4591dd24-834b-4b89-b5e7-5e34854d8774/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob" height="80" alt="AWS Cloud Quest: Generative AI Practitioner">
+  </a>
+  
   <!-- AWS Cloud Quest: Generative AI Architect -->
   <a href="https://www.credly.com/badges/08386f9a-8cb2-4fb9-81b4-91b060db415d/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/e3f85edd-57d4-4585-9311-7b99b3bc7a75/blob" height="80" alt="AWS Cloud Quest: Generative AI Architect">
   </a>
 
-  <!-- AWS Cloud Quest: Generative AI Practitioner -->
-  <a href="https://www.credly.com/badges/4591dd24-834b-4b89-b5e7-5e34854d8774/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob" height="80" alt="AWS Cloud Quest: Generative AI Practitioner">
-  </a>
-
   <!-- AWS Cloud Quest: Solutions Architect - Training Badge -->
   <a href="https://www.credly.com/badges/b35df395-425c-42f9-a7ea-0934d7dbbc55/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/320bfb8f-e722-41b9-a70a-c3fb07402981/blob" height="80" alt="AWS Cloud Quest: Generative AI Practitioner">
+    <img src="https://images.credly.com/size/340x340/images/320bfb8f-e722-41b9-a70a-c3fb07402981/blob" height="80" alt="AWS Cloud Quest: Solutions Architect">
   </a>
 </p>
 
