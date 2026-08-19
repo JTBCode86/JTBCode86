@@ -136,4 +136,10 @@ Estou sempre aberto a trocar conhecimentos sobre o mundo tech e novas oportunida
   </a>
 </p>
 
+  <!-- AWS Cloud Quest: Networking - Training Badge -->
+  <a href="https://www.credly.com/badges/08cfac91-efce-4cfa-98e6-4a2918e4c285/public_url" target="_blank">
+    <img src="https://images.credly.com/images/6bf3f80e-4cba-4b4c-bf45-85aec42233ff/blob" height="80" alt="AWS Cloud Quest: Networking">
+  </a>
+</p>
+
 *“Em busca constante de desenvolvimento e crescimento profissional.”*
