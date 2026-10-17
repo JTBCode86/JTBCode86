@@ -21,13 +21,13 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JTBCode86&color=blueviolet&style=flat-square&label=PERFIL+VISITADO" alt="Contador de Visitas" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=JTBCode86.JTBCode86&countColor=%237952b3&style=flat" alt="Contador de Visitas" />
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mim
-Engenheiro de Software com mais de **15 anos de experiência** no setor de Tecnologia da Informação. Tive o privilégio de passar por empresas de diversos segmentos como farmaceuticas, quimicas e financeiras. Minha trajetória é marcada pela versatilidade, tendo atuado em áreas críticas como:
+Engenheiro de Software com mais de **15 anos de experiência** no setor de Tecnologia da Informação. Tive o privilégio de passar por empresas de diversos segmentos como farmacêuticas, químicas e financeiras. Minha trajetória é marcada pela versatilidade, tendo atuado em áreas críticas como:
 - **Desenvolvimento de Software** (foco atual)
 - **Suporte a Aplicações**
 - **Infraestrutura de Redes**
@@ -41,9 +41,10 @@ Engenheiro de Software com mais de **15 anos de experiência** no setor de Tecno
 
 **Core Development**
 <p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VB.NET" />
 </p>
 
@@ -54,18 +55,20 @@ Engenheiro de Software com mais de **15 anos de experiência** no setor de Tecno
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
+**Containers & Infrastructure**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Containers" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Networks-00599C?style=for-the-badge&logo=cisco&logoColor=white" alt="Networks" />
+</p>
+
 **Desenvolvimento Web & Modelagem**
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=unified-modeling-language&logoColor=white" alt="UML" />
-</p>
-
-**Cloud & Infrastructure**
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Networks-00599C?style=for-the-badge&logo=cisco&logoColor=white" alt="Networks" />
 </p>
 
 ---
@@ -109,22 +112,21 @@ Estou sempre aberto a trocar conhecimentos sobre o mundo tech e novas oportunida
     <img src="https://images.credly.com/size/340x340/images/530be67d-1ce0-46d4-8a36-3f277d5687bc/blob" height="80" alt="AWS Cloud Quest: Data Analytics">
   </a>
 
- <!-- AWS Cloud Quest: Serverless Developer -->
+  <!-- AWS Cloud Quest: Serverless Developer -->
   <a href="https://www.credly.com/badges/08386f9a-8cb2-4fb9-81b4-91b060db415d/public_url" target="_blank">
     <img src="https://images.credly.com/size/110x110/images/9246c572-2b5e-4b3a-9fae-e87b3c1bf681/blob" height="80" alt="AWS Cloud Quest: Serverless Developer">
   </a>
 
-  
-   <!-- AWS Cloud Quest: Machine Learning -->
+  <!-- AWS Cloud Quest: Machine Learning -->
   <a href="https://www.credly.com/badges/08386f9a-8cb2-4fb9-81b4-91b060db415d/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/0bbd6fa0-937a-4933-9581-d25dd860bb33/blob" height="80" alt="AWS Cloud Quest: Machine Learning">
   </a>
-  
+
   <!-- AWS Cloud Quest: Generative AI Practitioner -->
   <a href="https://www.credly.com/badges/4591dd24-834b-4b89-b5e7-5e34854d8774/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob" height="80" alt="AWS Cloud Quest: Generative AI Practitioner">
   </a>
-  
+
   <!-- AWS Cloud Quest: Generative AI Architect -->
   <a href="https://www.credly.com/badges/08386f9a-8cb2-4fb9-81b4-91b060db415d/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/e3f85edd-57d4-4585-9311-7b99b3bc7a75/blob" height="80" alt="AWS Cloud Quest: Generative AI Architect">
@@ -134,7 +136,6 @@ Estou sempre aberto a trocar conhecimentos sobre o mundo tech e novas oportunida
   <a href="https://www.credly.com/badges/b35df395-425c-42f9-a7ea-0934d7dbbc55/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/320bfb8f-e722-41b9-a70a-c3fb07402981/blob" height="80" alt="AWS Cloud Quest: Solutions Architect">
   </a>
-</p>
 
   <!-- AWS Cloud Quest: Networking - Training Badge -->
   <a href="https://www.credly.com/badges/08cfac91-efce-4cfa-98e6-4a2918e4c285/public_url" target="_blank">
