@@ -17,7 +17,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/FOCO_ATUAL-IA_&_MACHINE_LEARNING-7952b3?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/EXPERT_EM-SISTEMAS_LEGADOS_&_ARQUITETURA-orange?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESPECIALIDADE-SISTEMAS_DISTRIBUÍDOS_&_ARQUITETURA-orange?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
 <p align="center">
