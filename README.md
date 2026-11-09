@@ -50,7 +50,7 @@ Combino profundidade em **desenvolvimento de software** com sólida bagagem em *
 | **[meli-core-engine](https://github.com/JTBCode86/meli-core-engine)** | Java 17, Spring Boot, Temporal.io, Kafka, Outbox | Orquestração SAGA, resiliência sob carga Black Friday e k6 |
 | **[developer-metrics-pipeline](https://github.com/JTBCode86/developer-metrics-pipeline)** | .NET 9, C#, Docker, Event-Driven | Pipeline escalável para agregação de métricas em tempo real |
 | **[fii-analytics-engine](https://github.com/JTBCode86/fii-analytics-engine)** | AWS Lambda, DynamoDB, SQS, LocalStack, TDD | Engenharia de dados Serverless e 100% de cobertura de testes |
-| **[taskpilot-api](https://github.com/JTBCode86/taskpilot-api)** | ASP.NET Core, CQRS, MediatR, EF Core | Clean Architecture em 4 camadas e modelagem Mermaid ERD |
+| **[data-lake-localstack-demo](https://github.com/JTBCode86/data-lake-localstack-demo)** | Docker Compose, LocalStack, Python, Serviços AWS: Lambda, S3, SQS e AWS CLI Local (awslocal) | Ingestão de arquivos orientada a eventos, com processamento assíncrono usando S3, SQS e Lambda |
 
 ---
 
