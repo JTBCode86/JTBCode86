@@ -52,6 +52,7 @@ Combino profundidade em **desenvolvimento de software** com sólida bagagem em *
 | **[fii-analytics-engine](https://github.com/JTBCode86/fii-analytics-engine)** | React, TypeScript, .NET 9, Python, AWS, LocalStack | Análise de carteiras de FIIs com processamento orientado a eventos, estimativa de proventos e observabilidade |
 | **[data-lake-localstack-demo](https://github.com/JTBCode86/data-lake-localstack-demo)** | Docker Compose, LocalStack, Python, Serviços AWS: Lambda, S3, SQS e AWS CLI Local (awslocal) | Ingestão de arquivos orientada a eventos, com processamento assíncrono usando S3, SQS e Lambda |
 | **[taskpilot-api](https://github.com/JTBCode86/taskpilot-api)** | .NET 10, React, TypeScript, SQL Server, Docker | Gerenciamento de tarefas com arquitetura em camadas, autenticação JWT e testes automatizados |
+| **[antifraude-simplificado](https://github.com/JTBCode86/antifraude-simplificado)** | Java 17, Spring Boot, PostgreSQL, RabbitMQ, Kafka, Redis, Docker | Análise didática de transações com microserviços, processamento assíncrono, idempotência e revisão manual |
 
 ---
 
